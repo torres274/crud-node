@@ -15,7 +15,7 @@ exports.create = (req, res) => {
 
 	user.save()
 		.then((data) => {
-			res.send({ message: 'User created successfully!', user: data })
+			res.send({ message: 'User created successfully!', data })
 		})
 		.catch((err) => {
 			res.status(500).send({ message: err.message })
