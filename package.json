@@ -1,0 +1,26 @@
+{
+  "name": "crud-node",
+  "version": "1.0.0",
+  "description": "Backend with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "debug": "node --inspect src/index.js",
+    "lint": "eslint '**/*.js' --ignore-pattern ./node_modules/"
+  },
+  "author": "Daniel Torres",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "chalk": "^4.1.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {
+    "eslint": "^7.12.1"
+  }
+}
