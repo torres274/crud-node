@@ -1,7 +1,8 @@
-# Test API with Postman
+# SIMPLE REST API WITH NODE
 
-## Method POST
-To test the create method you just have to select POST and add the URL [http://localhost:8000/users]
+## Test API with Postman
+### Method POST
+To test the create method you just have to select POST and add the URL [http://localhost:8000/]
 
 - Fields for the body
 ``` JSON
