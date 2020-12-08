@@ -5,7 +5,7 @@
 <br />
 <p align="center">
     <a href="https://github.com/torres274/crud-node">
-        <img src="src/public/images/programming.svg" alt="Logo" width="80" height="80">
+        <img src="src/public/images/programming.svg" alt="Logo" width="150" height="150">
     </a>
     <h3 align="center">CRUD NODE</h3>
 </p>
@@ -33,8 +33,9 @@ To test the create method you just have to select POST and add the URL [http://l
 
 <!-- CONTACT -->
 ## Contact
-Daniel Torres - [www.linkedin.com/in/daniel-torres-1996abc](www.linkedin.com/in/daniel-torres-1996abc)
-Project Link: [https://github.com/torres274/crud-node](https://github.com/torres274/crud-node)
+Daniel Torres - [www.linkedin.com/in/daniel-torres-1996abc](Linkedin)
+
+Project Link: [https://github.com/torres274/crud-node](crud-node)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [portfolio-shield]: https://img.shields.io/badge/-Porfolio-black.svg?style=for-the-badge&logo=portfolio&colorB=555
