@@ -36,7 +36,7 @@ To test the create method you just have to select POST and add the URL [http://l
 ## Contact
 Daniel Torres - [Linkedin](www.linkedin.com/in/daniel-torres-1996abc)
 
-Project Link: [https://github.com/torres274/crud-node](crud-node)
+Project Link: [crud-node](https://github.com/torres274/crud-node)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [portfolio-shield]: https://img.shields.io/badge/-Portfolio-black.svg?style=for-the-badge&logo=portfolio&colorB=555
