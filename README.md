@@ -17,7 +17,7 @@ This is an example of how you can develop a REST API using Node.js
 
 * Method POST
 
-To test the create method you just have to select POST and add the URL [http://localhost:8000/](http://localhost:8000/).
+To test the create method you just have to select POST and add the URL [http://localhost:8000/](http://localhost:8000/). Then select RAW and insert the following JSON.
 
 ``` JSON
 {
