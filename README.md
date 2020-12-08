@@ -5,18 +5,19 @@
 <br />
 <p align="center">
     <a href="https://github.com/torres274/crud-node">
-        <img src="src/public/images/programming.svg" alt="Logo" width="150" height="150">
+        <img src="src/public/images/programming.svg" alt="Logo" width="500" height="500">
     </a>
     <h3 align="center">CRUD NODE</h3>
 </p>
 
 <!-- ABOUT THE PROJECT -->
 ## REST API
-This is an example of how you can develop a REST API using Node.js.
+This is an example of how you can develop a REST API using Node.js
 
 ### Test with Postman
 
 * Method POST
+
 To test the create method you just have to select POST and add the URL [http://localhost:8000/].
 
 ``` JSON
@@ -33,7 +34,7 @@ To test the create method you just have to select POST and add the URL [http://l
 
 <!-- CONTACT -->
 ## Contact
-Daniel Torres - [www.linkedin.com/in/daniel-torres-1996abc](Linkedin)
+Daniel Torres - [Linkedin](www.linkedin.com/in/daniel-torres-1996abc)
 
 Project Link: [https://github.com/torres274/crud-node](crud-node)
 
