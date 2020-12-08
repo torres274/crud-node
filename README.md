@@ -31,7 +31,7 @@ To test the create method you just have to select POST and add the URL [http://l
 }
 ```
 
-[![Postman ScreenShot][postman-screenshot]](https://github.com/torres274/crud-node/src/public/images/screenshot.png)
+[![Postman ScreenShot][postman-screenshot]](https://github.com/torres274/crud-node/src/public/images/postman.png)
 
 <!-- CONTACT -->
 ## Contact
@@ -44,4 +44,4 @@ Project Link: [CRUD-NODE](https://github.com/torres274/crud-node)
 [portfolio-url]: https://dtorres.herokuapp.com/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/daniel-torres-1996abc
-[postman-screenshot]: src/public/images/screenshot.png
+[postman-screenshot]: src/public/images/postman.png
