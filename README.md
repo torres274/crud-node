@@ -33,11 +33,6 @@ To test the create method you just have to select POST and add the URL [http://l
 
 [![Postman ScreenShot][postman-screenshot]](https://github.com/torres274/crud-node/src/public/images/postman.png)
 
-<!-- CONTACT -->
-## Contact
-Daniel Torres: [LinkedIn](https://linkedin.com/in/daniel-torres-1996abc)
-
-Project Link: [CRUD-NODE](https://github.com/torres274/crud-node)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [portfolio-shield]: https://img.shields.io/badge/-Portfolio-black.svg?style=for-the-badge&logo=portfolio&colorB=555
