@@ -6,7 +6,7 @@
     <a href="https://github.com/torres274/crud-node">
         <img src="src/public/images/programming.svg" alt="Logo" width="400" height="220">
     </a>
-    <h3 align="center">CRUD NODE</h3>
+    <h3 align="center">CRUD-NODE</h3>
 </p>
 
 <!-- ABOUT THE PROJECT -->
