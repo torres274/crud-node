@@ -5,7 +5,7 @@
 <br />
 <p align="center">
     <a href="https://github.com/torres274/crud-node">
-        <img src="src/public/images/programming.svg" alt="Logo" width="500" height="500">
+        <img src="src/public/images/programming.svg" alt="Logo" width="400" height="400">
     </a>
     <h3 align="center">CRUD NODE</h3>
 </p>
@@ -39,7 +39,8 @@ Daniel Torres - [Linkedin](www.linkedin.com/in/daniel-torres-1996abc)
 Project Link: [https://github.com/torres274/crud-node](crud-node)
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[portfolio-shield]: https://img.shields.io/badge/-Porfolio-black.svg?style=for-the-badge&logo=portfolio&colorB=555
+[portfolio-shield]: https://img.shields.io/badge/-Portfolio-black.svg?style=for-the-badge&logo=portfolio&colorB=555
 [portfolio-url]: https://dtorres.herokuapp.com/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: www.linkedin.com/in/daniel-torres-1996abc
+[linkedin-url]: https:www.linkedin.com/in/daniel-torres-1996abc
+
