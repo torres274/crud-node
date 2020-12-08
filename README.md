@@ -34,7 +34,7 @@ To test the create method you just have to select POST and add the URL [http://l
 
 <!-- CONTACT -->
 ## Contact
-Daniel Torres - [Linkedin](www.linkedin.com/in/daniel-torres-1996abc)
+Daniel Torres - [LinkedIn](www.linkedin.com/in/daniel-torres-1996abc)
 
 Project Link: [crud-node](https://github.com/torres274/crud-node)
 
