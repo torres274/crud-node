@@ -31,7 +31,7 @@ To test the create method you just have to select POST and add the URL [http://l
 }
 ```
 
-[![Postman ScreenShot][postman-screenshot]](https://github.com/torres274/crud-node/src/public/imagesscreenshot.png)
+[![Postman ScreenShot][postman-screenshot]](https://github.com/torres274/crud-node/src/public/images/screenshot.png)
 
 <!-- CONTACT -->
 ## Contact
