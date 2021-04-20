@@ -10,16 +10,18 @@
 </p>
 
 <!-- ABOUT THE PROJECT -->
+
 ## REST API
+
 This is an example of how you can develop a REST API using Node.js
 
 ### Test with Postman
 
-* Method POST
+- Method POST
 
 To test the create method you just have to select POST and add the URL [http://localhost:8000/](http://localhost:8000/). Then select RAW and insert the following JSON.
 
-``` JSON
+```JSON
 {
     "email":"test@gmail.com",
     "password":"test123",
@@ -33,10 +35,10 @@ To test the create method you just have to select POST and add the URL [http://l
 
 [![Postman ScreenShot][postman-screenshot]](https://github.com/torres274/crud-node/src/public/images/postman.png)
 
-
 <!-- MARKDOWN LINKS & IMAGES -->
+
 [portfolio-shield]: https://img.shields.io/badge/-Portfolio-black.svg?style=for-the-badge&logo=portfolio&colorB=555
-[portfolio-url]: https://dtorres.herokuapp.com/
+[portfolio-url]: https://dtorres-portfolio.netlify.app/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/daniel-torres-1996abc
 [postman-screenshot]: src/public/images/postman.png
